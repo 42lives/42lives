@@ -10,13 +10,22 @@ I started using AI because I wanted to automate repeated writing, documentation,
 - Repository preflight and release readiness
 - Prompt workflow hygiene
 - Reviewable LLM wiki/documentation workflows
+- Local-first workday automation examples
 - Privacy-conscious local-first tooling
 
 ## Projects
 
 - [codex-maintainer-kit](https://github.com/42lives/codex-maintainer-kit) - local-first maintainer automation for AI-assisted open-source builders
+- [workday-automation-starter](https://github.com/42lives/workday-automation-starter) - practical office automation workflows with review-first privacy boundaries
 - [promptops-toolkit](https://github.com/42lives/promptops-toolkit) - prompt linting and inventory tools for reusable AI workflows
 - [llm-wiki-upgrader](https://github.com/42lives/llm-wiki-upgrader) - converts rough LLM notes into reviewable wiki pages
+
+## Maintenance Signals
+
+- Public repositories with README, license, tests, CI, and release tags
+- Local-first examples before optional Gmail, Notion, Google Sheets, or document connectors
+- Review checkpoints before publishing, sending, importing, or exporting generated outputs
+- Security and privacy boundaries for AI-assisted public repositories
 
 ## Principles
 

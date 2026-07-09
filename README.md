@@ -27,6 +27,13 @@ I started using AI because I wanted to automate repeated writing, documentation,
 - Review checkpoints before publishing, sending, importing, or exporting generated outputs
 - Security and privacy boundaries for AI-assisted public repositories
 
+## Recent Updates
+
+- 2026-07-09: Added local PPTX export to workday automation examples.
+- 2026-07-09: Added safe/review prompt fixtures to PromptOps Toolkit.
+- 2026-07-09: Added source citation checks to LLM Wiki Upgrader.
+- 2026-07-09: Connected companion projects in Codex Maintainer Kit.
+
 ## Principles
 
 - Keep sensitive checks local-first by default.
